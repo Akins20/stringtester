@@ -75,7 +75,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/string-operations-app.git
+   git clone https://github.com/Akins20/stringtester.git
    cd string-operations-app
    ```
 
@@ -198,7 +198,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or feedback, please reach out to:
 
-- **Name**: [ogunbiye@gmail.com.com](mailto:ogunbiye@gmail.com.com)
+- **Name**: [ogunbiye@gmail.com](mailto:ogunbiye@gmail.com)
 - **GitHub**: [Akins20](https://github.com/Akiins20)
 
 ---
